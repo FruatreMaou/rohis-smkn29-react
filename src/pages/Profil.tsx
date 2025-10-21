@@ -32,6 +32,9 @@ const Profil = () => {
     { position: "Bendahara", name: "Fatimah Zahra" },
     { position: "Koordinator Kajian", name: "Abdul Rahman" },
     { position: "Koordinator Mentoring", name: "Aisyah Putri" },
+    { position: "Kepala Bidang PSDM", name: "Rizki Ramadhan" },
+    { position: "Kepala Bidang Humas", name: "Dewi Safitri" },
+    { position: "Kepala Bidang DKK", name: "Arif Budiman" },
   ];
 
   return (
