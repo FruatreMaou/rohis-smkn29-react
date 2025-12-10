@@ -10,7 +10,7 @@ const Kegiatan = () => {
       description: "Kajian Islam setiap hari Jumat setelah sholat Jumat dengan tema yang berbeda setiap minggunya. Menghadirkan ustadz dan pembicara yang kompeten.",
       schedule: "Setiap Jumat",
       time: "13:00 - 14:30",
-      location: "Aula Sekolah",
+      location: "Masjid Miftahul Ulum",
       color: "bg-primary",
     },
     {
